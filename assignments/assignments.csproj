@@ -5,7 +5,7 @@
     <TargetFramework>net6.0</TargetFramework>
     <ImplicitUsings>enable</ImplicitUsings>
     <Nullable>enable</Nullable>
-    <StartupObject>assignments.Reverse</StartupObject>
+    <StartupObject>assignments.AvgofFactors</StartupObject>
   </PropertyGroup>
 
 </Project>

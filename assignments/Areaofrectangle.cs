@@ -9,7 +9,7 @@ namespace assignments
     internal class Areaofrectangle
     {
         static void Main(string[] args)
-            // Write a code to calculte area of rectangle.
+            // Write a code to calculate area of rectangle.
         {
             Console.WriteLine("Enter length of rectangle");
             int length = Convert.ToInt32(Console.ReadLine());
