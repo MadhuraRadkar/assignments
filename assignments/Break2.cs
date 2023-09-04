@@ -9,7 +9,7 @@ namespace assignments
     internal class Break2
 
     {
-        // display number between 1 to 25 if any num is divisible by 11 then stop the display processs.
+        // display number between 1 to 25 if any num is divisible by 11 then stop the display process.
         static void Main(string[] args)
         {
             int i= 1;
