@@ -15,7 +15,7 @@ namespace assignments
             int i= 1;
             while (i <= 25)
             {
-              if (i % 11 == 0)
+                if (i % 11 == 0)
                 {
                     
                     break;
