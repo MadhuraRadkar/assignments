@@ -8,7 +8,7 @@ namespace assignments
 {
     internal class Frequencyofeachdigit
     {
-      static void Main(string[] args)
+        static void Main(string[] args)
         {
             // Write a code to find frequency of each digit.
 

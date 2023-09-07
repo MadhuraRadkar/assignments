@@ -8,7 +8,7 @@ namespace assignments
 {
     internal class Dowhile2
     {
-      static void Main(string[] args)
+        static void Main(string[] args)
             // WAP to print even numbers from 121 to 229 using dowhile loop.
         {
             int i = 121;

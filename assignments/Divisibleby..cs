@@ -11,15 +11,26 @@ namespace assignments
         static void Main(string[] args)
             // wac to display number between 1 to 20 which are divisible by 5.
         {
-            int num = 1;
-            while (num <= 20)
+            //int num = 1;
+            //while (num <= 20)
+            //{
+            //    if (num % 5 == 0)
+            //    {
+            //        Console.WriteLine(num);
+            //    }
+            //    num++;
+            //}
+
+
+            // Using for loop
+            for(int i = 1; i <= 20; i++)
             {
-                if (num % 5 == 0)
+                if(i % 5 == 0)
                 {
-                    Console.WriteLine(num);
+                    Console.WriteLine(i);
                 }
-                num++;
             }
         }
+
     }
 }
