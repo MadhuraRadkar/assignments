@@ -20,7 +20,7 @@ namespace assignments
                 count++;
                 num /= 10;
             }
-            Console.WriteLine("The count of digit in number is" +count);
+            Console.WriteLine("The count of digit in number is " +count);
         }
     }
 }

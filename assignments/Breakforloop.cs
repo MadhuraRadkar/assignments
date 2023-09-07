@@ -11,7 +11,7 @@ namespace assignments
         static void Main(string[] args)
             // WAP to show use of break statement in for loop.
         {
-          for (int i = 1; i<=20; i++)
+            for (int i = 1; i<=20; i++)
             {
                 if (i == 15)
                 {
