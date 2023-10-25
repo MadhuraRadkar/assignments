@@ -11,6 +11,7 @@ namespace assignments
         static void Main(string[] args)
         {
             // Write a code to check the given number is Disarium number or not.
+            // 175 is disarium num.   1+ (7*7) + (5*5*5)--> 175.
             Console.WriteLine("Enter a num");
             int num = Convert.ToInt32(Console.ReadLine());
             int count = 0;

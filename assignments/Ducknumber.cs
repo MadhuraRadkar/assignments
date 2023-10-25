@@ -11,6 +11,8 @@ namespace assignments
       static void Main(string[] args)
         {
             // write a code to  check the num is duck num or not.
+            //number contains 0. ex. 301,650 are duck numbers.
+            // 003 ,06 are not considered as duck number.
             Console.Write("Enter a number");
             string num = Console.ReadLine();
 

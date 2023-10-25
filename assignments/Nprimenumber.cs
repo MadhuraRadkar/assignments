@@ -14,7 +14,7 @@ namespace assignments
             Console.WriteLine("Enter a number");
             int n = int.Parse(Console.ReadLine());
             int count = 0;
-            for (int num=1; num<=50; num++)
+            for (int num=1; num<=n; num++)
             {
                 bool isprime = true;
                 for ( int i=2; i<num; i++)
